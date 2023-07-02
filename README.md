@@ -1,4 +1,4 @@
-# To-Do test assessment
+# To-Do test assessment frontend
 
 This project has been developed using React.js as the primary framework, complemented by TypeScript for robust type checking and enhanced development experience.
  The UI components are built using Material UI. The styling of the project is implemented using default CSS, providing a clean and consistent look throughout the application.
