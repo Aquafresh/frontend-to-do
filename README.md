@@ -18,7 +18,7 @@ Project structure is pretty straight forward.
 ### To start the project
 
 Run:
-`npm install`
+`npm install` <br />
 `npm start`
 
 Open [http://localhost:3000](http://localhost:3000) to view it in the browser.
