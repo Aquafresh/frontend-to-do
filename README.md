@@ -8,11 +8,11 @@ This project has been developed using React.js as the primary framework, complem
 Project structure is pretty straight forward.
 
 src <br />
-  |__api          - folder where api calls stored <br />
-  |__components   - general component folder <br />
-      |__Column   - to_do and done column section <br />
-      |__Header   - main header with logo and "delete all" button <br />
-      |__Toolbar  - toolbar with "add task" and search controlls
+  |__api          - folder where api calls stored <br />
+  |__components   - general component folder <br />
+    |__Column   - to_do and done column section <br />
+    |__Header   - main header with logo and "delete all" button <br />
+    |__Toolbar  - toolbar with "add task" and search controlls
 
 
 ### To start the project
