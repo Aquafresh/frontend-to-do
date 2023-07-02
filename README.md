@@ -25,7 +25,7 @@ Open [http://localhost:3000](http://localhost:3000) to view it in the browser.
 
 
 ### Video
-For altarnative way to show the result insted of hosting here is a video how application is working
+As an alternative method to showcase the application's functionality, a video demonstration is available.
 
 https://github.com/Aquafresh/frontend-to-do/assets/11944345/2979183d-e385-4e17-a54c-0c1558caa9fd
 
