@@ -1,0 +1,17 @@
+.header {
+    margin-bottom: 20px;
+    padding-bottom: 20px;
+    border-bottom: 1px solid #ccc;
+}
+
+.headerControls {
+   display: flex;
+    justify-content: flex-end;
+}
+
+
+.header h1 {
+    font-family: Arial;
+    color: #756f6f;
+    margin: 0;
+}

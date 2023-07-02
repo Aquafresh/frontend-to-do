@@ -1,0 +1,19 @@
+html,body,p,ul,h1,h2,h3 {
+  padding: 0;
+  margin: 0;
+}
+
+ul {
+  list-style: none;
+}
+
+.app {
+  max-width: 1000px;
+  margin: 0 auto;
+  background-color: #f8f6f6;
+  padding: 20px;
+  border: 1px solid #ccc;
+  border-radius: 3px;
+  margin-top: 20px;
+  height: calc(100vh - 80px);
+}

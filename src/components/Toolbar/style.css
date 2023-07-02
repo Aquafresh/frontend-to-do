@@ -1,0 +1,29 @@
+.toolbar h2 {
+    padding: 0;
+    margin: 0;
+    font-family: Arial;
+    font-size: 17px;
+    color: #838d8d;
+    margin-bottom: 10px
+}
+
+.toolbar {
+    margin-bottom: 40px;
+}
+
+.toolbar input {
+    background-color: #fff;
+}
+
+.toolbar button {
+    margin-left: 15px;
+}
+
+.toolbarTaskInput {
+    width: 300px;
+}
+
+.toolbarSearch {
+    display: flex;
+    justify-content: flex-end;
+}

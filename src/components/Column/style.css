@@ -1,0 +1,29 @@
+.column h3 {
+    font-size: 32px;
+    color: #838d8d;
+    font-family: Arial;
+    padding-bottom: 10px;
+    margin-bottom: 20px;
+    position: relative;
+    z-index: 1;
+    display: flex;
+    align-items: center;
+}
+
+.column h3 p {
+    margin-right: 20px;
+}
+
+.column h3:after {
+    content: '';
+    width: 90%;
+    height: 1px;
+    position: absolute;
+    bottom: 0;
+    left: 0;
+    background-color: #ccc;
+}
+
+.column li span {
+    font-family: Arial;
+}
